@@ -1,2 +1,2 @@
-# Foundup-ML
+# FindUP-ML
 ML model for FoundUp apps
